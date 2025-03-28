@@ -17,7 +17,7 @@ Follow the following steps
 
 - commit your changes with a comment
 
-<pre> git commit -am "<your comment>"
+<pre> git commit -am "<your comment>"</pre>
 
 - Push your changes up to the internet
 
